@@ -1,0 +1,19 @@
+{
+  "name": "my-webpack-test",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pragmaBit/my-webpack-test.git"
+  },
+  "author": "EFFM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pragmaBit/my-webpack-test/issues"
+  },
+  "homepage": "https://github.com/pragmaBit/my-webpack-test#readme"
+}
